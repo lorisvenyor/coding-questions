@@ -1,3 +1,3 @@
 # coding-questions
 
-questions that I have done during interviews or practicing 
+questions that I have done during interviews or practice 
