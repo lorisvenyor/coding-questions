@@ -86,6 +86,5 @@ public class FurnitureOrder implements FurnitureOrderInterface {
 }
 
 // edge cases could be the following (that have been implemented):
-// if type does not exist in enum
 // if type is ordered more than once
 // if the furnitures map is empty
